@@ -1,1 +1,1 @@
-# WIR
+## Web Information Retrieval course
